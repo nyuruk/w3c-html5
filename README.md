@@ -54,4 +54,30 @@ Video Players for HTML5
 
 ---
 
+####week3 (canvas)
+
+#####OPTIONAL PROJECTS (3.2 Basics of HTML5 canvas)
+
+Here are a few project ideas. Your classmates and the team who prepared the course will all be glad to try them and give some feedback. Please post URLs in this discussion forum. These projects are optional, meaning that they won't be graded.
+
+---
+
+**Project 1 (easy):** Make a small drawing by just using rectangles and text  (a car, a monster, a head, or whatever you like).
+* **status:** incomplete
+* **link:** none
+
+---
+
+**Project 2:** Make an histogram (bar charts made of filled rectangles) as an array of integer values such as: var data = {1, 12, 20, 14, 13, 9, 5}, for example.
+* **status:** incomplete
+* **link:** none
+
+---
+
+**Project 3 (harder, for those who know JavaScript and a little bit of math):** Try to draw a human shaped robot using different 2D transforms (translate, rotate). Build a hierarchic skeleton (if we rotate the arm, the forearm and the hand should follow). This can be done by having the function that draws an arm save the context, move the coordinate system, call another function that draws the forearm, that saves the context, move the coordinate system to the end of the arm, call the function that draws the hand, etc. By consecutively calling functions from one another, with each function that saves the context -- moves the coordinate system -- calls another function -- restores the context, we can build a hierarchy of coordinate systems.
+* **status:** incomplete
+* **link:** none
+
+---
+
 
