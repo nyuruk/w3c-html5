@@ -80,4 +80,31 @@ Here are a few project ideas. Your classmates and the team who prepared the cour
 
 ---
 
+#####OPTIONAL PROJECTS (3.3 Immediate drawing mode: rectangles, text and images)
+
+Here are a few project ideas. Your classmates and the team who prepared the course will all be glad to try them and give some feedback. Please post URLs in this discussion forum. These projects are optional, meaning that they won't be graded.
+
+**Project 1 (easy):** Make a funny application by mixing all the things seen so far: images, colors, texts, video...
+* **status:** incomplete
+* **link:** none
+
+---
+
+**Project 2:** Write a small application triggering a screenshot from the Webcam.
+* **status:** incomplete
+* **link:** none
+
+---
+
+**Project 3 (a bit harder, need to know how to use CSS positioning and the CSS z-index property):** Try to position a canvas on top of a video element and draw shapes on top of the video.
+* **status:** incomplete
+* **link:** none
+
+---
+
+**Project 4 (follow-up of project 3):** Play two videos in loop mode at the same time, and draw the current image of the video 2 in the canvas on top of video 1, in a smaller size.
+* **status:** incomplete
+* **link:** none
+
+---
 
