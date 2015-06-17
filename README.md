@@ -54,7 +54,7 @@ Video Players for HTML5
 
 ---
 
-####week3 (canvas)
+####Week3 (canvas)
 
 #####OPTIONAL PROJECTS (3.2 Basics of HTML5 canvas)
 
