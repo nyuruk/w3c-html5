@@ -121,3 +121,15 @@ Here are a few project ideas. Your classmates and the team who prepared the cour
 * **link:** none
 
 ---
+
+#####OPTIONAL PROJECTS (3.5 Colors, gradients, patterns, shadows, etc.)
+
+Here are a few project ideas. Your classmates and the team who prepared the course will all be glad to try them and give some feedback. Please post URLs in this discussion forum. These projects are optional, meaning that they won't be graded.
+
+Project 1 (easy): Take any of the previous proposed projects, and improve them with shadows, gradients, patterns, etc.
+* **status:** incomplete
+* **link:** none
+
+Project 2 (a bit harder): Try to use the multiple image loader showed in the course, in one of your projects.
+* **status:** incomplete
+* **link:** none
