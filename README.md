@@ -108,3 +108,30 @@ Here are a few project ideas. Your classmates and the team who prepared the cour
 
 ---
 
+#####OPTIONAL PROJECTS (3.4 Path drawing mode: lines, circles, arcs, curves and other path drawing methods)
+
+Here are a few project ideas. Your classmates and the team who prepared the course will all be glad to try them and give some feedback. Please post URLs in this discussion forum. These projects are optional, meaning that they won't be graded.
+
+**Project 1 (easy):** Create a small monster using rectangles, arcs, lines, etc. Just drawing a monster head will do the work. Start with something simple: a circle for the head, two squares for the eyes, a line for the mouth, etc., then set some colors and line widths.
+* **status:** incomplete
+* **link:** none
+
+---
+
+**Project 2:** Same as above but make use of patterns.
+* **status:** incomplete
+* **link:** none
+
+---
+
+**Project 3 (harder):** Try to draw the current image of a video played in background, hidden using CSS, as the animated background of the canvas.
+* **status:** incomplete
+* **link:** none
+
+---
+
+**Project 4 (follow-up of project 3):** You can also use the trick with the video to create animated textures for the eyes, skin, etc.
+* **status:** incomplete
+* **link:** none
+
+---
