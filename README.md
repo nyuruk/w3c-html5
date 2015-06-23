@@ -47,7 +47,7 @@ Video Players for HTML5
 
 ---
 
-####Week3 (canvas)
+####Week 3 (canvas)
 
 #####OPTIONAL PROJECTS (3.2 Basics of HTML5 canvas)
 
@@ -126,10 +126,44 @@ Here are a few project ideas. Your classmates and the team who prepared the cour
 
 Here are a few project ideas. Your classmates and the team who prepared the course will all be glad to try them and give some feedback. Please post URLs in this discussion forum. These projects are optional, meaning that they won't be graded.
 
-Project 1 (easy): Take any of the previous proposed projects, and improve them with shadows, gradients, patterns, etc.
+**Project 1 (easy):** Take any of the previous proposed projects, and improve them with shadows, gradients, patterns, etc.
 * **status:** incomplete
 * **link:** none
 
-Project 2 (a bit harder): Try to use the multiple image loader showed in the course, in one of your projects.
+**Project 2 (a bit harder):** Try to use the multiple image loader showed in the course, in one of your projects.
+* **status:** incomplete
+* **link:** none
+
+---
+
+####Week 4 (canvas)
+
+#####OPTIONAL PROJECTS (4.2 Basic animation techniques)
+
+Here are a few project ideas. Your classmates and the team who prepared the course will all be glad to try them and give some feedback. Please post URLs in this discussion forum. These projects are optional, meaning that they won't be graded.
+
+**Project 1 (easy):** You created a monster, or a small drawing during Week 3: now please animate it! For example, make it move horizontally on the screen and bounce when it hits a vertical border.
+* **status:** incomplete
+* **link:** none
+
+**Project 2 (easy):** Change the color of your drawing every 0.5s. Professionals would do that using the timeStamp parameter passed to the function called by requestAnimationFrame, and do some computations, etc. But this is for advanced users. Others will simply use requestAnimationFrame for the smooth shape movements at 60 frames/s (using translate, rotate and increments, as shown in the course), and will use setInterval, for example for calling another function every 0.5s, or every second, that could change a color, a speed, etc.
+* **status:** incomplete
+* **link:** none
+
+**Project 3 (easy):** Run several animations at the same time (beware not to clear the canvas in all of them during each animation loop, one clear is enough). You can also have multiple calls to setInterval. Try and learn from experience. Then discuss your findings in the forum. 
+* **status:** incomplete
+* **link:** none
+
+**Project 4 (easy):** Implement motion blur for free! Instead of using clearRect(...) for clearing the canvas content, please comment this line and replace it by drawing a filled rectangle of the size of the canvas, that has some transparency. Use the following two lines, for example:
+   //ctx.clearRect(0, 0, canvas.width, canvas.height);
+   // Next line sets the color for filled shapes.
+   // We will use transparency here to create a blurred effect.
+   // Try different values for the last param (transparency): 0.05, 0.01, etc.
+
+   ctx.fillStyle = "rgba(0, 240, 240, 0.2)";
+
+      ctx.fillRect (0, 0, width, height); 
+   //It will erase the canvas content using color defined above.
+
 * **status:** incomplete
 * **link:** none
